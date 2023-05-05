@@ -6,7 +6,7 @@
 
 <div>
  <a href="https://github.com/Rogerio-Lacerda">
- <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rogerio-Lacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=ture"/>
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rogerio-Lacerda&show_icons=true&theme=dracula&include_all_commits=false&count_private=ture"/>
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-Lacerda&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
