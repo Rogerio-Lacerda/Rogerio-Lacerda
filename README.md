@@ -14,7 +14,9 @@
  <img heigth="30" width="40" alt="Rogerio-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img heigth="30" width="40" alt="Rogerio-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
  <img heigth="30" width="40" alt="Rogerio-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img heigth="30" width="40" alt="Rogerio-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+ <img heigth="30" width="40" alt="Rogerio-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img heigth="30" width="40" alt="Rogerio-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ 
  
 </div>
 
